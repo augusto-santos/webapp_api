@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mySQL": {
+    "host": "localhost",
+    "port": 3306,
+    "url": "",
+    "database": "rest_api",
+    "password": "",
+    "name": "mySQL",
+    "user": "root",
+    "connector": "mysql"
+  }
+}

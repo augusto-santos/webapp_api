@@ -1,0 +1,37 @@
+{
+  "lang": "pt-BR",
+  "title_page": "Project Task's",
+  "main_section": {
+    "title": "A Better Reader",
+    "desc": "A better reader, for when your chapter go out.",
+    "buttons": {
+      "signup": "Sign-up",
+      "reader": "View Reader"
+    }
+  },
+  "feature_section": {
+    "title": "Features",
+    "columns": [
+      {
+        "title": "feature 01",
+        "icon": "assignment_turned_in",
+        "desc": "Registro de tarefas de qualquer lugar"
+      },
+      {
+        "title": "feature 02",
+        "icon": "assignment_turned_in",
+        "desc": "Registro de tarefas de qualquer lugar"
+      },
+      {
+        "title": "feature 03",
+        "icon": "assignment_turned_in",
+        "desc": "Registro de tarefas de qualquer lugar"
+      },
+      {
+        "title": "feature 04",
+        "icon": "assignment_turned_in",
+        "desc": "Registro de tarefas de qualquer lugar"
+      }
+    ]
+  }
+}
